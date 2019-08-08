@@ -934,7 +934,7 @@ int drawable ic_vol_type_speaker_group_light 0x7f02010a
 int drawable ic_vol_type_speaker_light 0x7f02010b
 int drawable ic_vol_type_tv_dark 0x7f02010c
 int drawable ic_vol_type_tv_light 0x7f02010d
-int drawable icon 0x7f02010e
+int drawable icone 0x7f02010e
 int drawable mr_button_connected_dark 0x7f02010f
 int drawable mr_button_connected_light 0x7f020110
 int drawable mr_button_connecting_dark 0x7f020111

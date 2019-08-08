@@ -3287,7 +3287,7 @@ containing a value of this type.
         public static final int ic_vol_type_speaker_light=0x7f02010b;
         public static final int ic_vol_type_tv_dark=0x7f02010c;
         public static final int ic_vol_type_tv_light=0x7f02010d;
-        public static final int icon=0x7f02010e;
+        public static final int icone=0x7f02010e;
         public static final int mr_button_connected_dark=0x7f02010f;
         public static final int mr_button_connected_light=0x7f020110;
         public static final int mr_button_connecting_dark=0x7f020111;

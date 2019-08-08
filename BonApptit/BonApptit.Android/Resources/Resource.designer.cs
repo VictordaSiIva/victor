@@ -2919,7 +2919,7 @@ namespace BonApptit.Droid
 			public const int ic_vol_type_tv_light = 2130837773;
 			
 			// aapt resource value: 0x7f02010e
-			public const int Icon = 2130837774;
+			public const int Icone = 2130837774;
 			
 			// aapt resource value: 0x7f02010f
 			public const int mr_button_connected_dark = 2130837775;

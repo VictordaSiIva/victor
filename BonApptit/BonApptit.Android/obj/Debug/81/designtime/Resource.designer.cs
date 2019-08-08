@@ -2370,7 +2370,7 @@ namespace BonApptit.Droid
 			public const int design_snackbar_background = 2131296347;
 			
 			// aapt resource value: 0x7F010004
-			public const int Icon = 2130771972;
+			public const int Icone = 2130771972;
 			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;
