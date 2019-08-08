@@ -300,3 +300,14 @@ C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758624200000000.json
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.Data.Protection.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.Json.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.Packaging.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.Storage.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.VersionControl.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Carbon.Versioning.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\GitHub.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\System.Memory.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\Debug\FxResources.System.Memory.SR.resw

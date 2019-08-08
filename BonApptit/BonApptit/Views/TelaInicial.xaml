@@ -7,7 +7,7 @@
     <ContentPage.Content>
         <StackLayout  VerticalOptions="End" HorizontalOptions="Center" >
    
-                <Button Image="btnIniciarAtendimento.png" Clicked="GoNomeUsuario" BackgroundColor="Transparent" />
+                <Button Image="btnIniciarAtendimento.png" Clicked="GoNomeUsuario" BackgroundColor="Transparent" /> <!--teste-->
             
         </StackLayout>
     </ContentPage.Content>

@@ -30,13 +30,41 @@
     <AppXManifest Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-08-07T01:21:37.947</Modified>
+      <Modified>2019-08-08T00:00:57.089</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\BonApptit.UWP.exe">
       <PackagePath>entrypoint\BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-07T01:21:37.131</Modified>
+      <Modified>2019-08-08T00:00:53.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.data.protection\0.21.1\lib\netstandard2.0\Carbon.Data.Protection.dll">
+      <PackagePath>Carbon.Data.Protection.dll</PackagePath>
+      <Modified>2019-07-21T02:24:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.json\1.9.0\lib\netstandard2.0\Carbon.Json.dll">
+      <PackagePath>Carbon.Json.dll</PackagePath>
+      <Modified>2018-11-20T20:40:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.packaging\1.33.0\lib\netstandard2.0\Carbon.Packaging.dll">
+      <PackagePath>Carbon.Packaging.dll</PackagePath>
+      <Modified>2019-08-04T04:59:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.storage\1.19.0\lib\netstandard2.0\Carbon.Storage.dll">
+      <PackagePath>Carbon.Storage.dll</PackagePath>
+      <Modified>2019-07-21T03:17:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.versioncontrol\1.9.2\lib\netstandard2.0\Carbon.VersionControl.dll">
+      <PackagePath>Carbon.VersionControl.dll</PackagePath>
+      <Modified>2019-08-04T05:13:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.versioning\1.6.0\lib\netstandard2.0\Carbon.Versioning.dll">
+      <PackagePath>Carbon.Versioning.dll</PackagePath>
+      <Modified>2019-07-28T02:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\github\1.14.2\lib\netstandard2.0\GitHub.dll">
+      <PackagePath>GitHub.dll</PackagePath>
+      <Modified>2019-08-04T05:13:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -590,10 +618,6 @@
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
       <Modified>2018-05-16T20:28:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Extensions.dll">
-      <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
-      <Modified>2018-05-16T20:28:36.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
       <Modified>2018-05-16T20:28:36.000</Modified>
@@ -694,6 +718,22 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2018-05-16T20:28:36.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.memory\4.5.3\lib\netstandard2.0\System.Memory.dll">
+      <PackagePath>System.Memory.dll</PackagePath>
+      <Modified>2019-04-17T19:24:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T22:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.text.encodings.web\4.5.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2018-05-15T16:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.threading.tasks.extensions\4.5.3\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll">
+      <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2019-06-18T15:08:48.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\xamarin.forms\3.4.0.1008975\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2018-11-13T22:15:30.000</Modified>
@@ -712,7 +752,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\bin\Debug\netstandard2.0\BonApptit.dll">
       <PackagePath>BonApptit.dll</PackagePath>
-      <Modified>2019-08-07T01:21:32.718</Modified>
+      <Modified>2019-08-08T00:00:45.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -871,11 +911,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-08-07T01:21:36.987</Modified>
+      <Modified>2019-08-08T00:00:53.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-08-07T01:21:36.987</Modified>
+      <Modified>2019-08-08T00:00:53.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -887,11 +927,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-08-06T23:19:01.463</Modified>
+      <Modified>2019-08-08T00:00:55.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\BonApptit.UWP.exe">
       <PackagePath>BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-07T01:21:37.943</Modified>
+      <Modified>2019-08-08T00:00:57.085</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

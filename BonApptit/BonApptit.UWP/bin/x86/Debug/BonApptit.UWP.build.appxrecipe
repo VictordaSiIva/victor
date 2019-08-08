@@ -28,6 +28,27 @@
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\BonApptit.UWP.exe">
       <PackagePath>entrypoint\BonApptit.UWP.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.data.protection\0.21.1\lib\netstandard2.0\Carbon.Data.Protection.dll">
+      <PackagePath>Carbon.Data.Protection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.json\1.9.0\lib\netstandard2.0\Carbon.Json.dll">
+      <PackagePath>Carbon.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.packaging\1.33.0\lib\netstandard2.0\Carbon.Packaging.dll">
+      <PackagePath>Carbon.Packaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.storage\1.19.0\lib\netstandard2.0\Carbon.Storage.dll">
+      <PackagePath>Carbon.Storage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.versioncontrol\1.9.2\lib\netstandard2.0\Carbon.VersionControl.dll">
+      <PackagePath>Carbon.VersionControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.versioning\1.6.0\lib\netstandard2.0\Carbon.Versioning.dll">
+      <PackagePath>Carbon.Versioning.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\github\1.14.2\lib\netstandard2.0\GitHub.dll">
+      <PackagePath>GitHub.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
     </AppxPackagedFile>
@@ -442,9 +463,6 @@
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Extensions.dll">
-      <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
     </AppxPackagedFile>
@@ -519,6 +537,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.memory\4.5.3\lib\netstandard2.0\System.Memory.dll">
+      <PackagePath>System.Memory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.text.encodings.web\4.5.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\system.threading.tasks.extensions\4.5.3\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll">
+      <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\xamarin.forms\3.4.0.1008975\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
