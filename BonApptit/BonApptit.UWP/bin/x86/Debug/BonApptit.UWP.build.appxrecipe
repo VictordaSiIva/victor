@@ -679,6 +679,9 @@
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\btnIniciarAtendimento.png">
       <PackagePath>btnIniciarAtendimento.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Icone.png">
+      <PackagePath>Icone.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\BonApptit.jpg">
       <PackagePath>BonApptit.jpg</PackagePath>
     </AppxPackagedFile>
