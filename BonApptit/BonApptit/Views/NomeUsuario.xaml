@@ -4,8 +4,9 @@
              x:Class="BonApptit.Views.NomeUsuario">
 
     <ContentPage.Content>
-        <StackLayout>
-           
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center"  >
+            <Entry Placeholder="Digite seu nome..." />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

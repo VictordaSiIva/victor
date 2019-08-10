@@ -311,3 +311,9 @@ C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\System.Text.Encodings.Web.dll
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\obj\x86\Debug\FxResources.System.Memory.SR.resw
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
