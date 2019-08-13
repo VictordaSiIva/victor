@@ -317,3 +317,6 @@ C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLiteNetExtensions.dll
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\SQLiteNetExtensions.pdb

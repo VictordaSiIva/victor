@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-08-10T00:38:58.015</Modified>
+      <Modified>2019-08-13T01:18:54.939</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\BonApptit.UWP.exe">
       <PackagePath>entrypoint\BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-10T00:38:56.382</Modified>
+      <Modified>2019-08-13T01:18:50.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.data.protection\0.21.1\lib\netstandard2.0\Carbon.Data.Protection.dll">
       <PackagePath>Carbon.Data.Protection.dll</PackagePath>
@@ -65,6 +65,10 @@
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\github\1.14.2\lib\netstandard2.0\GitHub.dll">
       <PackagePath>GitHub.dll</PackagePath>
       <Modified>2019-08-04T05:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\newtonsoft.json\9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-14T02:06:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -722,6 +726,10 @@
       <PackagePath>SQLite-net.dll</PackagePath>
       <Modified>2018-09-10T23:00:16.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\sqlitenetextensions\2.1.0\lib\netstandard1.1\SQLiteNetExtensions.dll">
+      <PackagePath>SQLiteNetExtensions.dll</PackagePath>
+      <Modified>2018-08-14T01:28:54.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\sqlitepclraw.bundle_green\1.1.11\lib\uap10.0\SQLitePCLRaw.batteries_green.dll">
       <PackagePath>SQLitePCLRaw.batteries_green.dll</PackagePath>
       <Modified>2018-05-02T14:43:56.000</Modified>
@@ -776,7 +784,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\bin\Debug\netstandard2.0\BonApptit.dll">
       <PackagePath>BonApptit.dll</PackagePath>
-      <Modified>2019-08-10T00:38:47.013</Modified>
+      <Modified>2019-08-13T01:18:43.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -939,11 +947,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-08-10T00:38:56.171</Modified>
+      <Modified>2019-08-13T01:18:50.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-08-10T00:38:56.171</Modified>
+      <Modified>2019-08-13T01:18:50.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -955,11 +963,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-08-09T23:41:51.862</Modified>
+      <Modified>2019-08-13T01:18:53.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\BonApptit.UWP.exe">
       <PackagePath>BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-10T00:38:58.010</Modified>
+      <Modified>2019-08-13T01:18:54.934</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
