@@ -12,3 +12,4 @@ C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\obj\Debug\ne
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\obj\Debug\netstandard2.0\BonApptit.dll
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\obj\Debug\netstandard2.0\BonApptit.pdb
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\obj\Debug\netstandard2.0\Views\TelaPedido.xaml.g.cs

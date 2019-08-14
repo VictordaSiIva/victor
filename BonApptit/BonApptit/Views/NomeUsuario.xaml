@@ -5,8 +5,16 @@
 
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center"  >
-            <Entry Placeholder="Digite seu nome..." />
+           
+                          
+            <Entry   x:Name="nomeUsuario" Placeholder="Digite seu nome..." />
+            
+            <StackLayout HorizontalOptions="End">
+                <Button  Text="Proximo" Clicked="GoPaginaPedido" />
+            </StackLayout>
 
         </StackLayout>
+
+        
     </ContentPage.Content>
 </ContentPage>
