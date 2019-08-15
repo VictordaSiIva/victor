@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-08-14T01:16:23.336</Modified>
+      <Modified>2019-08-15T00:16:27.057</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\BonApptit.UWP.exe">
       <PackagePath>entrypoint\BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-14T01:16:22.681</Modified>
+      <Modified>2019-08-15T00:16:25.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\.nuget\packages\carbon.data.protection\0.21.1\lib\netstandard2.0\Carbon.Data.Protection.dll">
       <PackagePath>Carbon.Data.Protection.dll</PackagePath>
@@ -784,7 +784,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit\bin\Debug\netstandard2.0\BonApptit.dll">
       <PackagePath>BonApptit.dll</PackagePath>
-      <Modified>2019-08-14T01:16:17.561</Modified>
+      <Modified>2019-08-15T00:16:20.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -925,17 +925,29 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-08-06T22:56:09.223</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\btnIniciarAtendimento.png">
-      <PackagePath>btnIniciarAtendimento.png</PackagePath>
-      <Modified>2019-08-06T23:08:00.510</Modified>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\btn_avancar.png">
+      <PackagePath>btn_avancar.png</PackagePath>
+      <Modified>2019-08-15T00:14:32.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\btn_iniciar.png">
+      <PackagePath>btn_iniciar.png</PackagePath>
+      <Modified>2019-08-15T00:03:19.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\btn_voltar.png">
+      <PackagePath>btn_voltar.png</PackagePath>
+      <Modified>2019-08-15T00:14:31.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Icone.png">
       <PackagePath>Icone.png</PackagePath>
       <Modified>2019-08-08T00:13:43.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\BonApptit.jpg">
-      <PackagePath>BonApptit.jpg</PackagePath>
-      <Modified>2019-08-06T23:06:13.946</Modified>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\logo.png">
+      <PackagePath>logo.png</PackagePath>
+      <Modified>2019-08-15T00:06:43.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\background.jpg">
+      <PackagePath>background.jpg</PackagePath>
+      <Modified>2019-08-14T23:55:13.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -947,11 +959,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-08-14T01:16:22.474</Modified>
+      <Modified>2019-08-15T00:16:25.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-08-14T01:16:22.474</Modified>
+      <Modified>2019-08-15T00:16:25.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -963,11 +975,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-08-13T01:18:53.541</Modified>
+      <Modified>2019-08-15T00:13:00.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\Core\BonApptit.UWP.exe">
       <PackagePath>BonApptit.UWP.exe</PackagePath>
-      <Modified>2019-08-14T01:16:23.333</Modified>
+      <Modified>2019-08-15T00:16:27.047</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

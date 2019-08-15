@@ -131,9 +131,12 @@
     <Content Include="Assets\Wide310x150Logo.scale-100.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
-    <Content Include="BonApptit.jpg" />
-    <Content Include="btnIniciarAtendimento.png" />
+    <Content Include="background.jpg" />
+    <Content Include="btn_avancar.png" />
+    <Content Include="btn_iniciar.png" />
+    <Content Include="btn_voltar.png" />
     <Content Include="Icone.png" />
+    <Content Include="logo.png" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
   <ItemGroup>

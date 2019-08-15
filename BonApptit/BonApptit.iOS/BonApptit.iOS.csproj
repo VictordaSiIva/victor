@@ -165,12 +165,21 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\BonApptit.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\btnIniciarAtendimento.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\Icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\btn_avancar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\btn_voltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\btn_iniciar.png" />
   </ItemGroup>
 </Project>

@@ -2,13 +2,22 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BonApptit.Views.TelaInicial"
-             BackgroundImage="BonApptit.jpg">
+             BackgroundImage="background.jpg">
              
     <ContentPage.Content>
-        <StackLayout  VerticalOptions="End" HorizontalOptions="Center" >
+        <ScrollView>
+            <StackLayout>
+                    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+                <Image  Source="logo.png" />
+            </StackLayout>
+        
+            <StackLayout  VerticalOptions="End" HorizontalOptions="Center" >
    
-                <Button Image="btnIniciarAtendimento.png" Clicked="GoNomeUsuario" BackgroundColor="Transparent" /> <!--teste-->
+                    <Button Image="btn_iniciar.png" Clicked="GoNomeUsuario" BackgroundColor="Transparent" /> <!--teste-->
             
-        </StackLayout>
+            </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

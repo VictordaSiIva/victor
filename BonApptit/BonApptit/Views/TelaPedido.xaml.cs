@@ -15,9 +15,8 @@ namespace BonApptit.Views
 	{
 
         DataBase banco = new DataBase();
-        public Mesa mesa { get; set; }
+        public Mesa mesa;
         
-
         public TelaPedido (Mesa mesa)
 		{
            
@@ -27,12 +26,12 @@ namespace BonApptit.Views
             banco.InserirMesa(this.mesa);
             lblNome.Text = mesa.nome;
             
-            
 
         }
 
-      
+  
      
         
 	}
+    
 }
