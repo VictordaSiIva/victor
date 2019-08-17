@@ -11,9 +11,10 @@
 
   <ItemGroup>
     <PackageReference Include="GitHub" Version="1.14.2" />
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.2.8" />
     <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
     <PackageReference Include="SQLiteNetExtensions" Version="2.1.0" />
-    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.673156" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,5 +27,23 @@
     <EmbeddedResource Update="Views\TelaPedido.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Views\NomeUsuario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Views\TelaInicial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Views\TelaPedido.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
   </ItemGroup>
 </Project>

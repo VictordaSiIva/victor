@@ -13,19 +13,20 @@ namespace BonApptit.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class TelaPedido : ContentPage
 	{
-
+ 
         DataBase banco = new DataBase();
         public Mesa mesa;
         
         public TelaPedido (Mesa mesa)
 		{
-           
+
+          
 
             InitializeComponent ();
             this.mesa = mesa;
             banco.InserirMesa(this.mesa);
             lblNome.Text = mesa.nome;
-            
+
 
         }
 

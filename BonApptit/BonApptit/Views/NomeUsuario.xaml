@@ -8,10 +8,10 @@
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center"  >
            
                           
-            <Entry   x:Name="nomeUsuario" Placeholder="Digite seu nome..." />
+            <Entry  x:Name="nomeUsuario" Placeholder="Digite seu nome..." />
             
-            <StackLayout HorizontalOptions="End">
-                <Button Image="btn_avancar.png" Clicked="GoPaginaPedido" />
+            <StackLayout HorizontalOptions="EndAndExpand">
+                <Button Image="btn_avancar.png" Clicked="GoPaginaPedido"/>
             </StackLayout>
 
         </StackLayout>

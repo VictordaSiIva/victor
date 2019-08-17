@@ -4,4 +4,8 @@
     <ResultingAbi>armeabi-v7a</ResultingAbi>
     <SdkVersion>25</SdkVersion>
   </Device>
+  <Device id="0032523563">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>27</SdkVersion>
+  </Device>
 </Devices>
