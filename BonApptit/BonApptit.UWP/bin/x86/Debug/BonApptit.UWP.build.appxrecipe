@@ -226,6 +226,9 @@
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Icone.png">
       <PackagePath>Icone.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\informe_seu_nome.png">
+      <PackagePath>informe_seu_nome.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
     </AppxPackagedFile>
@@ -234,6 +237,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\Assets\BarbershopinThailand.ttf">
+      <PackagePath>Assets\BarbershopinThailand.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.UWP\bin\x86\Debug\BonApptit.UWP.xr.xml">
       <PackagePath>BonApptit.UWP.xr.xml</PackagePath>

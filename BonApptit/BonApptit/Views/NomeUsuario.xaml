@@ -6,11 +6,14 @@
 
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center"  >
-           
-                          
-            <Entry  x:Name="nomeUsuario" Placeholder="Digite seu nome..." />
+
+            <StackLayout>
+                <Image Source="informe_seu_nome.png"/>
+            </StackLayout>               
+            <Entry  x:Name="nomeUsuario" MaxLength="20" />
             
-            <StackLayout HorizontalOptions="EndAndExpand">
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <Label TextColor="Red" FontAttributes="Bold" x:Name="erros"></Label>
                 <Button Image="btn_avancar.png" Clicked="GoPaginaPedido"/>
             </StackLayout>
 

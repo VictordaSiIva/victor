@@ -1,5 +1,6 @@
 WinMetadata\Windows.winmd
 e_sqlite3.dll
+Assets\BarbershopinThailand.ttf
 Assets\LargeTile.scale-100.png
 Assets\LargeTile.scale-200.png
 Assets\LargeTile.scale-400.png
@@ -35,5 +36,6 @@ btn_avancar.png
 btn_iniciar.png
 btn_voltar.png
 Icone.png
+informe_seu_nome.png
 logo.png
 Properties\Default.rd.xml

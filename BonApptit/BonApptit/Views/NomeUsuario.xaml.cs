@@ -41,20 +41,22 @@ namespace BonApptit.Views
             if (mesa.nome == null || mesa.nome.Trim().Equals(""))
 
             {
-                DisplayAlert("Mensagem de Erro", "O campo não pode ser vazio!", "Ok");
+                erros.Text = "O campo não pode ser vazio!";
+               // DisplayAlert("Mensagem de Erro", "O campo não pode ser vazio!", "Ok");
                 nomeUsuario.Focus();
             }
             else if (!Regex.IsMatch(mesa.nome, @"^[ a-zA-Z á]*$"))
             {
-
-                DisplayAlert("Mensagem de Erro", "O campo não pode conter números ou caracteres especiais!", "Ok");
+                erros.Text = "O campo não pode conter números ou caracteres especiais!";
+                //  DisplayAlert("Mensagem de Erro", "O campo não pode conter números ou caracteres especiais!", "Ok");
                 nomeUsuario.Focus();
 
             }
 
-            else if (mesa.nome.Length >= 10)
+            else if (mesa.nome.Length >= 20)
             {
-                DisplayAlert("Mensagem de Erro", "É permitido até 10 caracteres!", "Ok");
+                erros.Text = "É permitido até 20 caracteres!";
+                // DisplayAlert("Mensagem de Erro", "É permitido até 20 caracteres!", "Ok");
                 nomeUsuario.Focus();
 
             }

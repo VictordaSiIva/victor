@@ -136,6 +136,7 @@
     <Content Include="btn_iniciar.png" />
     <Content Include="btn_voltar.png" />
     <Content Include="Icone.png" />
+    <Content Include="informe_seu_nome.png" />
     <Content Include="logo.png" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
@@ -166,6 +167,9 @@
       <Project>{2A7088C0-C376-4AA3-BC85-713EE268E7A5}</Project>
       <Name>BonApptit</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\BarbershopinThailand.ttf" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

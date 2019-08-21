@@ -187,4 +187,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\btn_iniciar.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\informe_seu_nome.png" />
+  </ItemGroup>
 </Project>
