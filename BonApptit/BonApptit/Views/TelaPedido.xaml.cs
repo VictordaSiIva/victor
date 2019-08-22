@@ -22,8 +22,7 @@ namespace BonApptit.Views
         public TelaPedido(Mesa mesa)
         {
 
-            
-
+          
             InitializeComponent();
             
             this.mesa = mesa;
@@ -37,6 +36,22 @@ namespace BonApptit.Views
           
 
         }
+
+        private void Adicionar(object sender, EventArgs args)
+        {
+            int i = 0;
+
+            foreach (var lanche in ListaLanches())
+            {
+                lanche.quantidade = i;
+
+                i++;
+            }
+
+            
+
+        }
+
 
         private List<Lanches> ListaLanches()
         {
@@ -52,18 +67,15 @@ namespace BonApptit.Views
             };
         }
 
+
+
         private List<Lanches> SelecionarLanche ()
 
         {
             return ListaLanches().Where(L=>L.quantidade>0).ToList();
         }
 
-        private void Adicionar(object sender,EventArgs args)
-        {
-
-           
-
-        }
+       
 
         
 

@@ -36,6 +36,7 @@
     <RootPropertyPathName Name="EllipseOffset" />
     <RootPropertyPathName Name="FormsDataTemplate" />
     <RootPropertyPathName Name="Item" />
+    <RootPropertyPathName Name="Container" />
     <RootPropertyPathName Name="IsPaneOpen" />
     <RootPropertyPathName Name="Master" />
     <RootPropertyPathName Name="Detail" />
@@ -517,6 +518,7 @@
     <RootType FullName="Xamarin.Forms.Platform.UWP.ItemContentControl">
       <RootProperty Name="FormsDataTemplate" />
       <RootProperty Name="FormsDataContext" />
+      <RootProperty Name="FormsContainer" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ItemsWrapGrid">
       <RootProperty Name="Orientation" />

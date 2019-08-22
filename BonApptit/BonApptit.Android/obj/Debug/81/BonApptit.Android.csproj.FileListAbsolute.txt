@@ -63,3 +63,11 @@ C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\res\drawable\btn_avancar.png
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\res\drawable\btn_voltar.png
 C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\res\drawable\btn_iniciar.png
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\res\drawable\informe_seu_nome.png
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\BonApptit.Android.csprojAssemblyReference.cache
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\res.flag
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\BonApptit.Android.dll
+C:\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\BonApptit.Android.pdb
+C:\Users\aluno\Documents\XamarinForms\BonApptit\BonApptit\BonApptit.Android\obj\Debug\81\XamlC.stamp

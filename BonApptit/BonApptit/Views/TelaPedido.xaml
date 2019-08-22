@@ -21,7 +21,7 @@
                                     <Label Text="{Binding descricao}"></Label>
                                     <Label Text="{Binding preco}"></Label>
 
-                                    <Button Clicked="Adicionar"></Button>
+                                    <Button Clicked="Adicionar" Text="+"></Button>
                                     <Label Text="{Binding quantidade}" x:Name="qtd" ></Label>
                                     <Label Text="{Binding precoTotal}"></Label>
 
